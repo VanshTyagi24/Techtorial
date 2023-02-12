@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7522dec.css",
+    "main.js": "/static/js/main.74823b91.js",
+    "static/media/Henry.png": "/static/media/Henry.5326b06a5c6a5ad23089.png",
+    "static/media/Rajdeep.png": "/static/media/Rajdeep.914ea244f6256e0a59d0.png",
+    "static/media/Vansh.png": "/static/media/Vansh.455f36daf98c8ee78d1e.png",
+    "static/media/soomin.png": "/static/media/soomin.4674dce3a3f035868b5a.png",
+    "static/media/keyboard3.png": "/static/media/keyboard3.00936ebc0257c65d7391.png",
+    "static/media/bar1.png": "/static/media/bar1.af7e314a0c086c4cd2e7.png",
+    "static/media/keyboard2.png": "/static/media/keyboard2.da30ae0387cc76e5377f.png",
+    "static/media/keyboard4.png": "/static/media/keyboard4.ce5d72c5395015af8c07.png",
+    "static/media/keyboard1.png": "/static/media/keyboard1.8eef2083a355417dad8f.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.d7522dec.css",
+    "static/js/main.74823b91.js"
+  ]
+}

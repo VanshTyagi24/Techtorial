@@ -28,7 +28,7 @@ export const Game5 = () => {
       res=true;
     }
     if (event.code === 'Space' && res===true) {
-      window.location.href = '/next-page';
+      window.location.href = '/game6';
     }
     
     

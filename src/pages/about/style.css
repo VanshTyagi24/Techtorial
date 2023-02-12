@@ -107,6 +107,9 @@
   .image-container img {
     margin-bottom: 10px;
   }
+  figcaption{
+    text-align: center;
+  }
   
   @media (max-width: 768px) {
     .image-container img {

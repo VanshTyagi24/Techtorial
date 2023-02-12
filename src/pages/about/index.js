@@ -40,10 +40,27 @@ export const About = () => {
           </Col>
         </Row>
         <div class="image-container">
-          <img src={soomin} height="200" size="200"></img>
-          <img src={rajdeep} height="200" size="200"></img>
+          <figure>
           <img src={vansh} height="200" size="200"></img>
-        <img src={henry} height="200" size="200"></img>
+          <figcaption>Vansh Tyagi</figcaption>
+          <figcaption>Role - Development</figcaption>
+          </figure>
+          <figure>
+          <img src={rajdeep} height="200" size="200"></img>
+          <figcaption>Rajdeepkaur Jat</figcaption>
+          <figcaption>Role - Presentation</figcaption>
+          </figure>
+          
+          <figure>
+          <img src={soomin} height="200" size="200"></img>
+          <figcaption>Soomin Lee</figcaption>
+          <figcaption>Role - UI/UX</figcaption>
+          </figure>
+          <figure>
+          <img src={henry} height="200" size="200"></img>
+          <figcaption>Henry Yang</figcaption>
+          <figcaption>Role - Support</figcaption>
+          </figure>
         
         </div>
         

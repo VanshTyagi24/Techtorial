@@ -1,6 +1,8 @@
 ### Description
 
-A simple website made with React for Hackville (a Hackathon organized by Sheridan College). 
+- A simple website made with React for Hackville (a Hackathon organized by Sheridan College).
+- One of the Hackville's Finalists
+- Made in a span of 2 days
 
 Try it out - https://techtorial-611e6.web.app/
 

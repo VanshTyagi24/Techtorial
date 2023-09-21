@@ -1,8 +1,10 @@
 ### Description
 
-A simple website made with React. 
+A simple website made with React for Hackville (a Hackathon organized by Sheridan College). 
 
+Try it out - https://techtorial-611e6.web.app/
 
+(This Website is for the showcase of my front-end skills with React)
 
 ### Features
 
